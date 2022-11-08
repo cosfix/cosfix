@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/cosfix" target="blank"><img src="https://img.shields.io/twitter/follow/cosfix?logo=twitter&style=for-the-badge" alt="cosfix" /></a> </p>
 
-- 🔭 I’m currently working on [BizQrscan](www.bizqrscan.com)
+- 🔭 I’m currently working on [MshikoQr](www.mshikoqr.com)
 
 - 🌱 I’m currently learning **Angularjs and springboots**
 
 - 💬 Ask me about **Flutter, ReactNative, Laravel, php**
 
 - 📫 How to reach me **cosmasp59@gmail.com**
+
+- 📫 How to reach me **+255712826083**
 
 - ⚡ Fun fact **Motivated by the fear of being poor**
 
