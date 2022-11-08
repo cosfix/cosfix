@@ -25,8 +25,4 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosfix&show_icons=true&locale=en&layout=compact" alt="cosfix" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cosfix&show_icons=true&locale=en" alt="cosfix" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosfix&" alt="cosfix" /></p>
